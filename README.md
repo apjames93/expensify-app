@@ -8,3 +8,4 @@ git push heroku master
 heroku open
 
 heroku logs
+heroku config:set KEY=value
